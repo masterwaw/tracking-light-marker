@@ -1,11 +1,11 @@
 # tracking-light-marker
 Tracking Light Marker
-Requirements : Opencv 3.3 
+Requirement : Opencv 3.3 
 
 
 How to use:
 
-1- //run with one argo video file name
+1- //run with one argument: a video file 
 
 	./exe videoName.avi 
 
